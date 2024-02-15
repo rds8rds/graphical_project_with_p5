@@ -1,0 +1,8 @@
+{
+  "name": "p5_collections",
+  "projects": [
+    "new_project",
+    "sandSimulator",
+    "gameOfLife"
+  ]
+}
